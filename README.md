@@ -1,6 +1,6 @@
 # 👋 Welcome to the Glitchverse! ☕️
 
-Hey there! I'm Sandeep Anand, a Java full-stack engineer on a mission to create awesome software. Join me as we journey through the Java wilderness, exploring the depths of web development and beyond!
+Hey there! I'm Sandeep Anand, a Java full-stack developer on a mission to create awesome software. Join me as we journey through the Java wilderness, exploring the depths of web development and beyond!
 
 ## About Me 💻
 
