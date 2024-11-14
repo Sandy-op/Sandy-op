@@ -16,6 +16,6 @@ Connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/sandeep-anand-0204891a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvF6QXfboQGuCrrOL2uHs%2Fw%3D%3D)
 - [Email](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKjRSzCGmRqMwFnNNSFldXJVsxzLdVzWwtFNBclQxQMlbTRWcxJtMfqXfVSRldZWhmrKqjq)
 - [Twitter](https://twitter.com/SanCnct404)
-- [Personal Website](https://www.sandebyte.tech)
+- [Live Project/Website](https://www.sandebyte.tech)
   
 ### Let's write awesome code and make a positive impact together! ☕️🚀
